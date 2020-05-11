@@ -1,0 +1,13 @@
+ ${AnsiColor.GREEN}__          __${AnsiColor.GREEN}  ______${AnsiColor.GREEN} __     __
+ ${AnsiColor.GREEN}\ \        / /${AnsiColor.GREEN} |___  /${AnsiColor.GREEN} \ \   / /
+ ${AnsiColor.GREEN} \ \  /\  / / ${AnsiColor.GREEN}    / / ${AnsiColor.GREEN}  \ \_/ /
+ ${AnsiColor.GREEN}  \ \/  \/ /  ${AnsiColor.GREEN}   / /  ${AnsiColor.GREEN}   \   /
+ ${AnsiColor.GREEN}   \  /\  /   ${AnsiColor.GREEN}  / /__ ${AnsiColor.GREEN}    | |
+ ${AnsiColor.GREEN}    \/  \/    ${AnsiColor.GREEN} /_____|${AnsiColor.GREEN}    |_|
+
+${AnsiColor.BRIGHT_BLUE}:: SpringBoot-learning-samples :: Running Spring Boot ${spring-boot.version} ::
+
+ ${AnsiColor.DEFAULT}项目地址: https://gitee.com/owenwangwen/open-capacity-platform
+ ${AnsiColor.DEFAULT}技术博客: https://blog.csdn.net/wangjerome
+
+

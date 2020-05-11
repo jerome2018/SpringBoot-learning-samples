@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <meta charset="utf-8"> 
+    <title>会议信息</title> 
+</head>
+<body>
+
+
+<h4 th:text="会议信息："/>
+<ol>
+    <!--/*@thymesVar id="meetName" type="templates"*/-->
+    <li th:text="'会议名称:' + ${meetName}"/>
+    <!--/*@thymesVar id="meetUser" type="templates"*/-->
+    <li th:text="'会议主持人:' + ${meetUser}"/>
+    <!--/*@thymesVar id="meetDate" type="templates"*/-->
+    <li th:text="'会议时间:' + ${meetDate}"/>
+</ol>
+
+
+</body>
+</html>
